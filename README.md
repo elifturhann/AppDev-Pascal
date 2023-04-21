@@ -1,6 +1,5 @@
 # AppDev-Pascal
-
-<h3><4>Pascal Triangle<i></h4>
+<h4><i>Pascal Triangle<i></h4>
 
                  1
                1   1
